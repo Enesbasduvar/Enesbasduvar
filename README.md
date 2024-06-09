@@ -42,7 +42,6 @@ I'm a software developer passionate about Kotlin, Java, Artificial Intelligence,
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesbasduvar&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbasduvar&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
