@@ -1,4 +1,8 @@
-### Hi, I'm Enes Başduvar! 👋
+<div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Enes+Basduvar+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 I'm a software developer passionate about Kotlin, Java, Artificial Intelligence, and image processing. I'm constantly striving to learn new things and make the world a better place through my projects.
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-basduvar) 
