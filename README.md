@@ -47,7 +47,7 @@ I'm a software developer passionate about Kotlin, Java, Artificial Intelligence,
 </div>
 
 ---
-![snake gif](https://raw.githubusercontent.com/Enesbasduvar/Enesbasduvar/f611846b7ec251718b2fa4d96c0c5fa23f39b8bd/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Enesbasduvar/Enesbasduvar/d2991536cf3896d5c0e08496022ffed73c69564e/github-contribution-grid-snake.svg)
 
 ---
 
