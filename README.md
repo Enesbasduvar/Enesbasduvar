@@ -4,6 +4,7 @@
  </a>
 </div>
 I'm a software developer passionate about Kotlin, Java, Artificial Intelligence, and image processing. I'm constantly striving to learn new things and make the world a better place through my projects.
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-basduvar) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25491607/enes-başduvar)
