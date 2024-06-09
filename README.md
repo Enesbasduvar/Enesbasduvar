@@ -41,7 +41,7 @@ I'm a software developer passionate about Kotlin, Java, Artificial Intelligence,
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 ## 📊 GitHub Stats:
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbasduvar&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
