@@ -9,9 +9,6 @@ I'm a software developer passionate about Kotlin, Java, Artificial Intelligence,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-basduvar) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25491607/enes-başduvar)
 
-## 🚀 Featured Projects
-- **[Project Name](link)**: A brief description of this project.
-- **[Another Project](link)**: A brief description of this project.
 
 ## 💻 Tech Stack:
 
